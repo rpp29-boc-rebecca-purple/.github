@@ -16,7 +16,7 @@ A 4-week project where our team created an MVP, full-stack application for our c
 
 
 ### Video Demo 
-![CroutonChat demo gif](BOCdemo.gif)
+![CroutonChat demo gif](https://github.com/rpp29-boc-rebecca-purple/CrutonChat/blob/main/BOCdemo.gif?raw=true)
 
 ### How does the app work?
 - Create an account and search for your friends with their email addresses.
